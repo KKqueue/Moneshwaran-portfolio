@@ -19,7 +19,7 @@ export default function Introduction() {
           <div className="md:col-span-4 flex flex-col gap-6">
              <div className="flex flex-col">
                 <span className="font-mono text-xs uppercase tracking-widest text-white/40 mb-1">Located In</span>
-                <span className="text-xl font-medium tracking-tight">Mettur, Erode District, Tamil Nadu</span>
+                <span className="text-xl font-medium tracking-tight">Mettur, Salem District, Tamil Nadu</span>
              </div>
              <div className="flex flex-col">
                 <span className="font-mono text-xs uppercase tracking-widest text-white/40 mb-1">Identity</span>
